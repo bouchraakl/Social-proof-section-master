@@ -126,7 +126,7 @@ body {
     width: 320px;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 10px;
     background-color: var(--primary-veryDark);
     padding: 30px;
     border-radius: 5px;
