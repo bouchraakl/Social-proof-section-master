@@ -23,8 +23,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("./images/bg-pattern-top-desktop.svg"),
-    url("./images/bg-pattern-bottom-desktop.svg");
+  background-image: url("../images/bg-pattern-top-desktop.svg"),
+    url("../images/bg-pattern-bottom-desktop.svg");
   background-position: top left, bottom right;
   background-repeat: no-repeat, no-repeat;
   background-size: 50%;
