@@ -19,4 +19,4 @@ This repo. contain the solution for the Social-proof-section-mastert Challenge!
 ![mobile-design](https://user-images.githubusercontent.com/97567643/210455705-c729dadf-c425-4c4c-b5af-a9acd97c09ae.jpg)
 
 ### Links
-- Live Site URL: https://bouchraakl.github.io/Product-preview-card-component/
+- Live Site URL:https://bouchraakl.github.io/Social-proof-section-master/
